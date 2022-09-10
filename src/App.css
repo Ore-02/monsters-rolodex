@@ -7,8 +7,8 @@ body {
   /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
   background: linear-gradient(
     to right,
-    #d4d3dd,
-    #efefbb
+    rgba(7, 27, 82, 1)0%,
+    rgba(0, 128, 128, 1)100%
   );
   text-align: center;
  }
